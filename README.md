@@ -4,12 +4,6 @@ Please have python3 installed to run this project on terminal:
 
 [Python3 Installation](https://www.python.org/downloads/)
 
-# CountDown Timer
-
-<!--Remove the below lines and add yours -->
-
-Countdown timer made using the Python time module and is a terminal game to countdown the time.
-
 ### Prerequisites
 
 <!--Remove the below lines and add yours -->
